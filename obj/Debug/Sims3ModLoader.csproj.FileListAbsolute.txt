@@ -1,0 +1,17 @@
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\bin\Debug\Sims3ModLoader.exe.config
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\bin\Debug\Sims3ModLoader.exe
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\bin\Debug\Sims3ModLoader.pdb
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.csprojResolveAssemblyReference.cache
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.Properties.Resources.resources
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.csproj.GenerateResource.Cache
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.exe
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.pdb
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.FormMain.resources
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.FormOpenPackage.resources
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3ModLoader\bin\Debug\ilasm\fusion.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3ModLoader\bin\Debug\ilasm\ilasm.exe
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3ModLoader\bin\Debug\ilasm\ildasm.exe
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3ModLoader\bin\Debug\ilasm\ilasm.exe.config
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3ModLoader\bin\Debug\ilasm\ildasm.exe.config
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.FormNewPackage.resources
+d:\users\jurjen\documents\visual studio 2013\Projects\Sims3ModLoader\obj\Debug\Sims3ModLoader.FormAddFIlePAckage.resources
